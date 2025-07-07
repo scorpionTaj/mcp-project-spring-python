@@ -237,6 +237,9 @@ export OLLAMA_BASE_URL=http://localhost:10000
 ### Frontend Testing
 ![Frontend Testing](Screenshots/frontend%20testing.png)
 
+### Frontend File Access
+![Frontend File Access](Screenshots/font%20end%20check%20access%20to%20files.png)
+
 ### Company Information via Swagger UI
 ![Company List 1](Screenshots/liste%20des%20entreprises%20avec%20swagger%20UI(1).png)
 ![Company List 2](Screenshots/liste%20des%20entreprises%20avec%20swagger%20UI(2).png)
