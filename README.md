@@ -449,9 +449,128 @@ spring.ai.anthropic.chat.options.model=claude-sonnet-4-20250514
    - "What files can you access?"
    - "Remember my name is John"
 
+## Screenshots
+
+This section showcases the various features and capabilities of the MCP Project through visual demonstrations.
+
+### 🖥️ Frontend Interface
+
+#### Chat Interface Testing
+![Frontend Testing](Screenshots/frontend%20testing.png)
+*Angular frontend chat interface showing the modern UI design and chat functionality*
+
+#### File System Access
+![File System Access](Screenshots/font%20end%20check%20access%20to%20files.png)
+*Frontend demonstrating file system operations through the MCP Python server*
+
+![Files in Project](Screenshots/files%20in%20my%20projects%20using%20my%20mcp.png)
+*Listing project files using MCP tools integration*
+
+### 🧠 AI Memory & Conversation
+
+#### Memory Functionality
+![Memory Query](Screenshots/apres%20ajoute%20run%20memoire%20question%20euq%20je%20m'apelle%20.png)
+*AI remembering user information across conversations*
+
+![Name Recall](Screenshots/il%20ma%20rendu%20mon%20prenom%20apres%20la%20resultat.png)
+*AI successfully recalling stored user name from memory*
+
+### 🔧 Backend & Console
+
+#### MCP Client Console
+![MCP Client Console](Screenshots/MCP%20Client%20Console.png)
+*Spring Boot MCP Client console showing system logs and operations*
+
+#### Python MCP Server Testing
+![Python MCP Server](Screenshots/testing%20mcp%20python%20server.png)
+*Python MCP Server running and handling requests*
+
+### 🏢 Company & Stock Information
+
+#### Company Data Retrieval
+![Company Apple](Screenshots/Response%20to%20an%20entreprise%20as%20example(Apple).png)
+*Example response for Apple company information*
+
+![Company Maroc Telecom](Screenshots/Response%20to%20an%20entreprise%20as%20example(Maroc%20Telecom).png)
+*Example response for Maroc Telecom company information*
+
+![All Companies](Screenshots/Response%20to%20list%20all%20the%20entreprises.png)
+*Response showing all available companies in the system*
+
+### 📊 API Testing with Swagger UI
+
+#### Company Endpoints
+![Swagger Companies 1](Screenshots/Response%20to%20an%20entreprise%20as%20an%20example(Apple).png)
+*Swagger UI showing company listing endpoints*
+
+![Swagger Companies 2](Screenshots/Response%20to%20an%20entreprise%20as%20an%20example(Maroc%20Telecom).png)
+*Swagger UI company endpoints detailed view*
+
+#### Memory Queries
+![Swagger Memory Query](Screenshots/comme%20je%20m'appelle%20query%20in%20swagger%20ui.png)
+*Testing memory functionality through Swagger UI*
+
+![Swagger Query 1](Screenshots/meme%20requete%20avec%20swaggerUI(1).png)
+*Swagger UI query demonstration*
+
+![Swagger Query 2](Screenshots/meme%20requete%20avec%20swaggerUI(2).png)
+*Swagger UI query results*
+
+### 🧪 API Testing with Postman
+
+#### Company Operations
+![Postman Get All Companies](Screenshots/Postman%20Method%20GetAllCompany%20.png)
+*Postman testing the GetAllCompany endpoint*
+
+![Postman Get Company by Name](Screenshots/Postman%20Method%20GetCompanyByNameTest%20.png)
+*Postman testing the GetCompanyByName endpoint*
+
+#### Stock Information
+![Postman Stock by Company](Screenshots/Postman%20Method%20GestStockByCompany.png)
+*Postman testing stock information retrieval by company*
+
+### 🎯 Key Features Demonstrated
+
+The screenshots showcase:
+
+1. **Frontend Capabilities**:
+   - Modern chat interface
+   - Real-time AI interactions
+   - File system integration
+   - Responsive design
+
+2. **Backend Integration**:
+   - MCP Client-Server communication
+   - Python MCP Server operations
+   - Console logging and monitoring
+
+3. **AI Memory System**:
+   - Conversation persistence
+   - User information recall
+   - Context-aware responses
+
+4. **Tool Integration**:
+   - Company information lookup
+   - Stock data retrieval
+   - File system operations
+   - Memory management
+
+5. **API Testing**:
+   - Swagger UI documentation
+   - Postman endpoint testing
+   - RESTful API validation
+
+6. **Multi-language Support**:
+   - Java Spring Boot services
+   - Python MCP server
+   - Angular frontend
+   - Cross-platform compatibility
+
+These screenshots demonstrate the full functionality of the MCP Project, from the user-facing chat interface to the backend API operations, showcasing the seamless integration between different components and the AI-powered capabilities.
+
 ## Roadmap
 
-### Planned Features
+###    Planned Features
 - [ ] Real-time chat with WebSocket support
 - [ ] User authentication and authorization
 - [ ] Conversation history persistence
