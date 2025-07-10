@@ -488,10 +488,10 @@ This section showcases the various features and capabilities of the MCP Project 
 ### 🏢 Company & Stock Information
 
 #### Company Data Retrieval
-![Company Apple](Screenshots/Response%20to%20an%20entreprise%20as%20example(Apple).png)
+![Company Apple](Screenshots/Apple.png)
 *Example response for Apple company information*
 
-![Company Maroc Telecom](Screenshots/Response%20to%20an%20entreprise%20as%20example(Maroc%20Telecom).png)
+![Company Maroc Telecom](Screenshots/Maroc_Telecom.png)
 *Example response for Maroc Telecom company information*
 
 ![All Companies](Screenshots/Response%20to%20list%20all%20the%20entreprises.png)
@@ -500,10 +500,10 @@ This section showcases the various features and capabilities of the MCP Project 
 ### 📊 API Testing with Swagger UI
 
 #### Company Endpoints
-![Swagger Companies 1](Screenshots/Response%20to%20an%20entreprise%20as%20an%20example(Apple).png)
+![Swagger Companies 1](Screenshots/Apple.png)
 *Swagger UI showing company listing endpoints*
 
-![Swagger Companies 2](Screenshots/Response%20to%20an%20entreprise%20as%20an%20example(Maroc%20Telecom).png)
+![Swagger Companies 2](Screenshots/Maroc_Telecom.png)
 *Swagger UI company endpoints detailed view*
 
 #### Memory Queries
